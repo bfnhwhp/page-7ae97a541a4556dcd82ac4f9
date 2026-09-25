@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.pinlgkj.cn/sitemap.xml
